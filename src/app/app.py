@@ -154,6 +154,12 @@ with tab3:
         value=st.session_state.editable_plan,
         height=500
     )
+    st.download_button(
+        label="Download Care Plan",
+        data=st.session_state.editable_plan,
+        file_name="care_plan.txt",
+        mime="text/plain"
+    )
     st.session_state.editable_plan = edited_plan
 
     col3, col4 = st.columns([1, 1])
