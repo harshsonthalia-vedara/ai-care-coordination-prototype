@@ -1,0 +1,19 @@
+Coordinator: Hi Maria, how have you been feeling lately?
+
+Patient: I've been really tired and haven't been taking my medications regularly.
+
+Coordinator: What’s making it difficult?
+
+Patient: I forget sometimes, and I also missed my appointment because I didn’t have transportation.
+
+Coordinator: Have you been checking your blood sugar?
+
+Patient: Not regularly.
+
+Coordinator: Any other challenges?
+
+Patient: Eating healthy is hard because groceries are expensive.
+
+Coordinator: We can help with transportation and nutrition resources.
+
+Patient: That would help a lot.

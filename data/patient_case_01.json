@@ -1,0 +1,35 @@
+{
+  "patient": {
+    "member_id": "MBR-1001",
+    "first_name": "Maria",
+    "last_name": "Johnson",
+    "age": 57,
+    "sex": "Female",
+    "primary_conditions": ["Type 2 Diabetes", "Hypertension"],
+    "risk_level": "High"
+  },
+  "claims": [
+    {
+      "date": "2025-11-12",
+      "diagnosis": "Uncontrolled diabetes"
+    },
+    {
+      "date": "2025-12-20",
+      "diagnosis": "Dizziness and hyperglycemia"
+    }
+  ],
+  "clinical_notes": [
+    "Patient reports fatigue and inconsistent medication adherence. Missed specialist appointment due to transportation issues."
+  ],
+  "medications": [
+    {"name": "Metformin", "adherence": "poor"},
+    {"name": "Lisinopril", "adherence": "moderate"}
+  ],
+  "labs": [
+    {"test": "HbA1c", "value": "9.2", "interpretation": "poor control"}
+  ],
+  "social_factors": {
+    "transportation_issue": true,
+    "food_access_issue": true
+  }
+}
