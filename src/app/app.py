@@ -20,9 +20,10 @@ APPROVED_PLAN_PATH = OUTPUT_DIR / "approved_care_plan_case_01.md"
 
 
 def get_openai_client():
-    api_key = os.getenv("OPENAI_API_KEY")
+    api_key = os.getenv("OPENAI_API_KEY") or st.secrets.get("OPENAI_API_KEY")
+
     if not api_key:
-        raise ValueError("OPENAI_API_KEY not found in .env")
+        raise ValueError("OPENAI_API_KEY not found. Please set it in Streamlit Secrets.")
     return OpenAI(api_key=api_key)
 
 
