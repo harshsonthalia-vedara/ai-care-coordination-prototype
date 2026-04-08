@@ -1,0 +1,301 @@
+ticket_id,date_submitted,channel,category,text,word_count,resolution_status,response_time_hours,csat_score,agent_id
+TKT-01117,2024-12-16,social_media,billing,i see duplicate charges on my account. this is the second time this month.,14,resolved,43.6,5.0,agt-042
+TKT-01369,2024-05-12,social_media,account,i have a negative experience regarding account. this is a inquiry.,11,unresolved,41.8,2.0,agt-041
+TKT-00423,2024-07-14,social_media,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,escalated,44.4,2.0,agt-041
+TKT-00414,2024-07-09,email,returns,i have a negative experience regarding returns. this is a feedback.,11,escalated,44.9,2.0,agt-018
+TKT-00452,2024-10-12,chat,technical support,i have a negative experience regarding technical support. this is a complaint.,12,pending,30.2,,agt-023
+TKT-00862,2024-06-26,email,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,45.7,5.0,agt-036
+TKT-01064,2024-05-08,social_media,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,pending,49.5,,agt-023
+TKT-00742,2024-08-28,chat,account,i have a negative experience regarding account. this is a escalation request.,12,escalated,57.1,3.0,agt-042
+TKT-01273,2024-10-11,social_media,technical support,i have a negative experience regarding technical support. this is a cancellation.,12,escalated,24.9,4.0,agt-021
+TKT-00260,2024-05-02,email,technical support,i have a negative experience regarding technical support. this is a complaint.,12,escalated,35.9,1.0,agt-034
+TKT-00889,2024-01-17,chat,billing,i was charged twice for my subscription this month and i need a refund immediately. this is completely unacceptable.,19,pending,17.7,,agt-037
+TKT-01433,2024-08-09,phone_transcript,technical support,i have a neutral experience regarding technical support. this is a feedback.,12,escalated,11.5,1.0,agt-001
+TKT-00713,2024-07-21,email,account,i have a neutral experience regarding account. this is a complaint.,11,resolved,50.4,4.0,agt-028
+TKT-01383,2024-11-25,social_media,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,48.3,3.0,agt-046
+TKT-00071,2024-11-05,social_media,returns,i have a positive experience regarding returns. this is a complaint.,11,escalated,18.4,1.0,agt-037
+TKT-01269,2024-09-06,phone_transcript,billing,i have a neutral experience regarding billing. this is a complaint.,11,resolved,43.9,2.0,agt-032
+TKT-01492,2024-07-19,social_media,shipping,i have a positive experience regarding shipping. this is a inquiry.,11,pending,12.1,,agt-009
+TKT-00608,2024-07-21,email,returns,i have a negative experience regarding returns. this is a inquiry.,11,resolved,29.1,3.0,agt-011
+TKT-00434,2024-11-22,chat,returns,i have a positive experience regarding returns. this is a complaint.,11,resolved,33.1,4.0,agt-021
+TKT-00052,2024-08-30,chat,technical support,i have a positive experience regarding technical support. this is a complaint.,12,resolved,48.4,4.0,agt-050
+TKT-01200,2024-09-22,social_media,account,i have a negative experience regarding account. this is a inquiry.,11,resolved,42.0,3.0,agt-048
+TKT-01129,2024-07-05,chat,billing,i have a negative experience regarding billing. this is a escalation request.,12,escalated,48.0,2.0,agt-005
+TKT-01191,2024-01-15,phone_transcript,billing,you overcharged me by 49.99. i need this fixed now or i'm canceling.,13,unresolved,52.6,4.0,agt-023
+TKT-01250,2024-12-08,chat,technical support,i have a negative experience regarding technical support. this is a feedback.,12,resolved,14.6,3.0,agt-006
+TKT-01420,2024-05-21,social_media,returns,can i exchange instead of return?,6,resolved,60.5,5.0,agt-009
+TKT-00433,2024-11-09,chat,technical support,what browsers are officially supported?,5,pending,58.2,,agt-018
+TKT-01453,2024-03-22,phone_transcript,account,i have a negative experience regarding account. this is a feedback.,11,resolved,2.0,4.0,agt-047
+TKT-01471,2024-12-16,email,account,i have a positive experience regarding account. this is a escalation request.,12,resolved,33.1,3.0,agt-012
+TKT-01235,2024-05-01,social_media,returns,can i exchange instead of return?,6,unresolved,49.3,3.0,agt-031
+TKT-01282,2024-11-17,social_media,returns,i have a neutral experience regarding returns. this is a complaint.,11,pending,31.5,,agt-040
+TKT-01086,2024-04-12,email,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,pending,63.6,,agt-016
+TKT-00611,2024-03-09,social_media,returns,i have a positive experience regarding returns. this is a complaint.,11,resolved,2.6,5.0,agt-002
+TKT-01285,2024-10-07,social_media,returns,i have a negative experience regarding returns. this is a inquiry.,11,pending,59.3,,agt-008
+TKT-01042,2024-05-07,chat,technical support,what browsers are officially supported?,5,pending,67.7,,agt-007
+TKT-00221,2024-06-15,email,returns,i have a neutral experience regarding returns. this is a complaint.,11,pending,62.3,,agt-050
+TKT-00340,2024-08-12,chat,billing,i have a positive experience regarding billing. this is a complaint.,11,resolved,68.8,3.0,agt-022
+TKT-00424,2024-02-06,social_media,shipping,i have a neutral experience regarding shipping. this is a inquiry.,11,escalated,6.2,2.0,agt-046
+TKT-00429,2024-08-21,chat,shipping,the package arrived damaged. everything inside was broken.,8,pending,45.6,,agt-041
+TKT-01106,2024-06-12,email,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,25.3,2.0,agt-014
+TKT-00077,2024-03-01,email,returns,i have a positive experience regarding returns. this is a cancellation.,11,resolved,46.8,2.0,agt-046
+TKT-01392,2024-08-18,chat,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,resolved,17.6,1.0,agt-018
+TKT-00440,2024-01-27,phone_transcript,account,i have a negative experience regarding account. this is a complaint.,11,resolved,62.3,1.0,agt-021
+TKT-01337,2024-05-10,chat,account,i have a negative experience regarding account. this is a complaint.,11,escalated,66.8,2.0,agt-018
+TKT-00865,2024-11-18,phone_transcript,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,58.3,4.0,agt-047
+TKT-01081,2024-08-31,email,billing,i have a negative experience regarding billing. this is a escalation request.,12,resolved,24.4,3.0,agt-020
+TKT-00355,2024-06-24,phone_transcript,account,i have a negative experience regarding account. this is a feedback.,11,resolved,69.9,2.0,agt-045
+TKT-00366,2024-07-25,social_media,account,i have a positive experience regarding account. this is a inquiry.,11,pending,7.1,,agt-022
+TKT-00310,2024-07-09,social_media,shipping,you shipped to the wrong address even though i updated it before the order was processed.,16,unresolved,1.9,4.0,agt-045
+TKT-00737,2024-01-16,phone_transcript,returns,i have a positive experience regarding returns. this is a inquiry.,11,resolved,14.7,3.0,agt-012
+TKT-00999,2024-06-02,phone_transcript,billing,i have a neutral experience regarding billing. this is a complaint.,11,pending,59.6,,agt-040
+TKT-00622,2024-11-15,social_media,shipping,i have a positive experience regarding shipping. this is a cancellation.,11,escalated,53.6,1.0,agt-022
+TKT-00544,2024-05-16,email,returns,i have a positive experience regarding returns. this is a inquiry.,11,pending,11.3,,agt-001
+TKT-01141,2024-07-20,phone_transcript,shipping,you shipped to the wrong address even though i updated it before the order was processed.,16,resolved,55.0,1.0,agt-023
+TKT-01297,2024-08-31,email,billing,i have a negative experience regarding billing. this is a feedback.,11,escalated,13.0,1.0,agt-038
+TKT-00555,2024-02-15,email,technical support,i have a positive experience regarding technical support. this is a inquiry.,12,resolved,51.0,4.0,agt-050
+TKT-00680,2024-12-19,phone_transcript,shipping,i have a negative experience regarding shipping. this is a feedback.,11,escalated,63.0,3.0,agt-029
+TKT-00050,2024-06-21,chat,technical support,i have a positive experience regarding technical support. this is a inquiry.,12,resolved,54.9,3.0,agt-017
+TKT-00491,2024-05-22,chat,returns,i have a positive experience regarding returns. this is a inquiry.,11,escalated,44.8,4.0,agt-010
+TKT-00317,2024-01-05,chat,billing,i have a neutral experience regarding billing. this is a complaint.,11,pending,16.5,,agt-046
+TKT-00905,2024-10-14,social_media,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,escalated,56.5,3.0,agt-040
+TKT-00637,2024-11-19,chat,technical support,i have a neutral experience regarding technical support. this is a escalation request.,13,unresolved,23.2,4.0,agt-018
+TKT-00561,2024-02-26,phone_transcript,account,i have a neutral experience regarding account. this is a complaint.,11,resolved,23.8,1.0,agt-025
+TKT-00487,2024-12-28,phone_transcript,billing,i have a positive experience regarding billing. this is a feedback.,11,resolved,28.0,5.0,agt-025
+TKT-00068,2024-04-28,social_media,technical support,i have a positive experience regarding technical support. this is a inquiry.,12,resolved,21.1,3.0,agt-015
+TKT-00812,2024-08-30,phone_transcript,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,resolved,71.3,4.0,agt-019
+TKT-00494,2024-03-09,email,billing,i have a negative experience regarding billing. this is a escalation request.,12,resolved,9.2,4.0,agt-014
+TKT-00311,2024-08-14,phone_transcript,billing,i was charged twice for my subscription this month and i need a refund immediately. this is completely unacceptable.,19,unresolved,55.8,2.0,agt-013
+TKT-01097,2024-06-21,phone_transcript,returns,i have a neutral experience regarding returns. this is a complaint.,11,resolved,48.8,4.0,agt-019
+TKT-01248,2024-07-14,email,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,34.3,2.0,agt-024
+TKT-00185,2024-03-12,email,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,34.6,5.0,agt-029
+TKT-00307,2024-09-23,phone_transcript,billing,is there a way to get an itemized bill for my records?,12,escalated,33.3,4.0,agt-027
+TKT-00853,2024-06-04,social_media,billing,i have a neutral experience regarding billing. this is a complaint.,11,resolved,8.5,3.0,agt-009
+TKT-00793,2024-04-08,email,account,i have a negative experience regarding account. this is a complaint.,11,escalated,19.0,5.0,agt-040
+TKT-00290,2024-03-16,phone_transcript,shipping,i have a negative experience regarding shipping. this is a cancellation.,11,resolved,42.4,5.0,agt-024
+TKT-00707,2024-06-15,chat,billing,i have a positive experience regarding billing. this is a cancellation.,11,resolved,13.5,5.0,agt-010
+TKT-01330,2024-10-01,phone_transcript,shipping,i have a neutral experience regarding shipping. this is a inquiry.,11,resolved,43.8,5.0,agt-032
+TKT-00655,2024-12-05,phone_transcript,technical support,i have a negative experience regarding technical support. this is a feedback.,12,pending,42.4,,agt-034
+TKT-00523,2024-09-06,email,technical support,i have a positive experience regarding technical support. this is a complaint.,12,resolved,47.5,5.0,agt-027
+TKT-00462,2024-06-21,social_media,billing,i have a neutral experience regarding billing. this is a complaint.,11,resolved,6.4,3.0,agt-006
+TKT-00931,2024-06-12,phone_transcript,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,resolved,49.7,3.0,agt-021
+TKT-01035,2024-11-18,social_media,shipping,i have a negative experience regarding shipping. this is a escalation request.,12,resolved,28.5,2.0,agt-008
+TKT-00030,2024-01-22,chat,billing,i have a negative experience regarding billing. this is a inquiry.,11,resolved,22.5,4.0,agt-023
+TKT-00241,2024-07-15,social_media,billing,i have a negative experience regarding billing. this is a cancellation.,11,resolved,69.4,2.0,agt-027
+TKT-00799,2024-07-03,phone_transcript,technical support,i have a positive experience regarding technical support. this is a inquiry.,12,resolved,63.0,5.0,agt-015
+TKT-00818,2024-08-15,phone_transcript,returns,i have a negative experience regarding returns. this is a feedback.,11,pending,26.8,,agt-032
+TKT-00066,2024-08-14,social_media,account,i have a negative experience regarding account. this is a complaint.,11,resolved,21.8,3.0,agt-004
+TKT-00602,2024-03-15,phone_transcript,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,61.0,5.0,agt-011
+TKT-00925,2024-10-01,chat,account,i've decided to go with a competitor. cancel my account and confirm via email.,14,pending,2.1,,agt-008
+TKT-00755,2024-02-23,phone_transcript,account,i have a negative experience regarding account. this is a inquiry.,11,resolved,48.8,1.0,agt-002
+TKT-00927,2024-07-23,social_media,shipping,i have a neutral experience regarding shipping. this is a escalation request.,12,pending,66.4,,agt-046
+TKT-01102,2024-10-19,email,billing,i have a negative experience regarding billing. this is a inquiry.,11,escalated,19.2,2.0,agt-016
+TKT-00248,2024-12-30,chat,shipping,the item i received is completely different from what i ordered. this is frustrating.,14,resolved,23.5,1.0,agt-037
+TKT-00278,2024-12-30,phone_transcript,account,i have a positive experience regarding account. this is a escalation request.,12,resolved,18.2,3.0,agt-017
+TKT-01403,2024-08-30,email,returns,i have a positive experience regarding returns. this is a escalation request.,12,pending,35.8,,agt-022
+TKT-01067,2024-05-20,phone_transcript,shipping,my order says delivered but i never received anything. this is theft.,12,resolved,46.4,2.0,agt-041
+TKT-00480,2024-01-08,social_media,technical support,i have a positive experience regarding technical support. this is a complaint.,12,escalated,66.7,5.0,agt-013
+TKT-00427,2024-03-20,email,returns,i have a negative experience regarding returns. this is a cancellation.,11,resolved,6.5,5.0,agt-048
+TKT-00124,2024-05-26,email,billing,is there a way to get an itemized bill for my records?,12,resolved,6.0,4.0,agt-025
+TKT-01170,2024-07-10,chat,account,i have a negative experience regarding account. this is a escalation request.,12,resolved,47.8,3.0,agt-025
+TKT-00395,2024-09-29,email,account,i have a positive experience regarding account. this is a inquiry.,11,escalated,36.5,1.0,agt-039
+TKT-00986,2024-05-08,phone_transcript,account,i have a negative experience regarding account. this is a complaint.,11,unresolved,28.4,2.0,agt-019
+TKT-00716,2024-10-02,social_media,technical support,i have a neutral experience regarding technical support. this is a escalation request.,13,escalated,6.3,4.0,agt-043
+TKT-01135,2024-09-04,chat,returns,i have a negative experience regarding returns. this is a inquiry.,11,resolved,37.3,5.0,agt-016
+TKT-01085,2024-06-19,chat,account,i have a positive experience regarding account. this is a cancellation.,11,resolved,56.9,1.0,agt-010
+TKT-00498,2024-04-13,chat,returns,i have a neutral experience regarding returns. this is a complaint.,11,resolved,49.8,1.0,agt-036
+TKT-00045,2024-06-12,chat,shipping,i have a neutral experience regarding shipping. this is a feedback.,11,resolved,64.4,1.0,agt-010
+TKT-00060,2024-05-04,chat,returns,i was told returns are free but now you're trying to charge me a restocking fee.,16,resolved,22.4,3.0,agt-048
+TKT-01162,2024-05-07,phone_transcript,returns,i have a positive experience regarding returns. this is a cancellation.,11,resolved,13.2,1.0,agt-031
+TKT-00024,2024-07-21,phone_transcript,shipping,my package was supposed to arrive 5 days ago. the tracking hasn't updated in a week.,16,resolved,9.9,3.0,agt-001
+TKT-00875,2024-05-15,social_media,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,pending,58.5,,agt-001
+TKT-00482,2024-10-19,phone_transcript,billing,i have a negative experience regarding billing. this is a escalation request.,12,resolved,43.0,2.0,agt-034
+TKT-01325,2024-11-20,chat,returns,i have a neutral experience regarding returns. this is a complaint.,11,resolved,45.3,4.0,agt-033
+TKT-00746,2024-08-27,phone_transcript,account,i have a positive experience regarding account. this is a inquiry.,11,resolved,31.4,3.0,agt-002
+TKT-00232,2024-01-13,chat,shipping,i have a neutral experience regarding shipping. this is a feedback.,11,resolved,35.0,1.0,agt-047
+TKT-00125,2024-10-19,email,returns,i have a negative experience regarding returns. this is a cancellation.,11,resolved,47.1,2.0,agt-004
+TKT-00428,2024-12-05,chat,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,resolved,26.0,5.0,agt-035
+TKT-00819,2024-02-18,social_media,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,57.3,1.0,agt-028
+TKT-00169,2024-09-22,phone_transcript,account,i have a positive experience regarding account. this is a complaint.,11,escalated,33.2,4.0,agt-040
+TKT-00116,2024-06-03,email,shipping,i have a positive experience regarding shipping. this is a inquiry.,11,resolved,68.1,5.0,agt-008
+TKT-01089,2024-09-30,social_media,returns,i have a negative experience regarding returns. this is a escalation request.,12,pending,5.6,,agt-038
+TKT-00987,2024-01-30,phone_transcript,billing,you overcharged me by 49.99. i need this fixed now or i'm canceling.,13,resolved,39.5,4.0,agt-042
+TKT-01396,2024-05-27,chat,returns,i have a positive experience regarding returns. this is a inquiry.,11,resolved,22.6,4.0,agt-010
+TKT-01425,2024-08-29,phone_transcript,account,i have a positive experience regarding account. this is a inquiry.,11,resolved,45.2,5.0,agt-023
+TKT-00416,2024-03-02,chat,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,50.4,2.0,agt-014
+TKT-00142,2024-07-17,social_media,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,70.6,1.0,agt-023
+TKT-01234,2024-02-07,email,account,i have a positive experience regarding account. this is a complaint.,11,pending,1.9,,agt-037
+TKT-01294,2024-02-24,chat,returns,your return portal keeps giving me an error when i try to print the label.,15,resolved,63.7,4.0,agt-001
+TKT-00763,2024-02-09,email,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,unresolved,54.5,2.0,agt-011
+TKT-01207,2024-02-06,phone_transcript,billing,my invoice shows charges i never authorized. i've been a customer for 3 years and this has never happened before.,20,pending,44.4,,agt-016
+TKT-00463,2024-09-03,chat,returns,i have a negative experience regarding returns. this is a feedback.,11,escalated,40.5,2.0,agt-040
+TKT-01244,2024-02-03,email,account,i have a neutral experience regarding account. this is a inquiry.,11,pending,6.6,,agt-004
+TKT-00079,2024-09-16,social_media,billing,i have a neutral experience regarding billing. this is a feedback.,11,resolved,19.6,1.0,agt-038
+TKT-01005,2024-04-01,phone_transcript,account,i have a neutral experience regarding account. this is a complaint.,11,escalated,32.2,1.0,agt-023
+TKT-01491,2024-11-17,social_media,account,i have a positive experience regarding account. this is a inquiry.,11,pending,10.8,,agt-018
+TKT-00572,2024-04-14,email,billing,i have a neutral experience regarding billing. this is a complaint.,11,pending,10.4,,agt-042
+TKT-00016,2024-01-17,email,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,62.0,1.0,agt-014
+TKT-00495,2024-12-18,email,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,43.7,4.0,agt-021
+TKT-00351,2024-07-28,chat,billing,i have a positive experience regarding billing. this is a complaint.,11,escalated,8.1,4.0,agt-026
+TKT-01000,2024-04-24,social_media,returns,i have a neutral experience regarding returns. this is a escalation request.,12,resolved,15.2,1.0,agt-020
+TKT-00275,2024-03-07,social_media,returns,i have a positive experience regarding returns. this is a inquiry.,11,pending,17.4,,agt-026
+TKT-01192,2024-11-21,phone_transcript,technical support,i have a neutral experience regarding technical support. this is a feedback.,12,resolved,19.3,4.0,agt-036
+TKT-00272,2024-07-28,chat,returns,i have a negative experience regarding returns. this is a feedback.,11,resolved,2.2,2.0,agt-001
+TKT-01474,2024-06-24,social_media,technical support,what browsers are officially supported?,5,escalated,21.8,2.0,agt-009
+TKT-00238,2024-08-22,email,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,resolved,44.6,4.0,agt-040
+TKT-00586,2024-08-06,phone_transcript,account,i have a negative experience regarding account. this is a complaint.,11,resolved,26.9,2.0,agt-029
+TKT-01313,2024-02-14,social_media,returns,i have a negative experience regarding returns. this is a inquiry.,11,escalated,34.5,2.0,agt-046
+TKT-00695,2024-07-08,chat,billing,i have a neutral experience regarding billing. this is a complaint.,11,resolved,48.9,2.0,agt-017
+TKT-01002,2024-10-10,email,account,i have a neutral experience regarding account. this is a inquiry.,11,escalated,28.2,3.0,agt-035
+TKT-00323,2024-03-28,phone_transcript,account,i have a negative experience regarding account. this is a inquiry.,11,pending,60.6,,agt-007
+TKT-00783,2024-08-25,chat,account,i have a negative experience regarding account. this is a inquiry.,11,resolved,22.4,1.0,agt-022
+TKT-01359,2024-10-29,chat,billing,i have a neutral experience regarding billing. this is a feedback.,11,resolved,57.0,3.0,agt-016
+TKT-01204,2024-03-28,social_media,billing,what payment methods do you accept?,6,resolved,2.1,2.0,agt-046
+TKT-00971,2024-09-15,social_media,account,i have a positive experience regarding account. this is a complaint.,11,resolved,32.2,1.0,agt-012
+TKT-01467,2024-03-21,chat,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,escalated,67.8,3.0,agt-029
+TKT-00527,2024-11-18,email,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,resolved,53.5,5.0,agt-038
+TKT-01426,2024-10-14,social_media,returns,i have a negative experience regarding returns. this is a inquiry.,11,resolved,1.7,1.0,agt-027
+TKT-01171,2024-01-18,email,billing,i have a negative experience regarding billing. this is a inquiry.,11,resolved,60.2,1.0,agt-031
+TKT-00176,2024-12-26,phone_transcript,shipping,my order says delivered but i never received anything. this is theft.,12,escalated,15.3,3.0,agt-019
+TKT-00359,2024-03-23,email,billing,i have a positive experience regarding billing. this is a complaint.,11,resolved,70.8,4.0,agt-019
+TKT-00044,2024-05-06,social_media,returns,i have a negative experience regarding returns. this is a feedback.,11,resolved,60.6,1.0,agt-016
+TKT-00417,2024-05-14,phone_transcript,returns,i was told returns are free but now you're trying to charge me a restocking fee.,16,resolved,17.5,2.0,agt-028
+TKT-00345,2024-10-12,social_media,technical support,i have a neutral experience regarding technical support. this is a feedback.,12,resolved,64.3,3.0,agt-033
+TKT-01027,2024-01-21,chat,shipping,i have a positive experience regarding shipping. this is a inquiry.,11,resolved,69.1,4.0,agt-002
+TKT-01402,2024-12-06,phone_transcript,billing,i have a neutral experience regarding billing. this is a complaint.,11,resolved,67.3,3.0,agt-021
+TKT-00102,2024-03-30,chat,shipping,my order says delivered but i never received anything. this is theft.,12,pending,8.4,,agt-016
+TKT-00108,2024-08-30,chat,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,pending,5.3,,agt-007
+TKT-01490,2024-11-06,email,account,i have a positive experience regarding account. this is a inquiry.,11,resolved,5.7,5.0,agt-012
+TKT-01053,2024-08-05,email,billing,i have a positive experience regarding billing. this is a inquiry.,11,resolved,35.9,4.0,agt-036
+TKT-00965,2024-08-06,phone_transcript,technical support,i have a negative experience regarding technical support. this is a feedback.,12,resolved,33.9,5.0,agt-002
+TKT-00381,2024-03-30,social_media,returns,i have a neutral experience regarding returns. this is a feedback.,11,pending,46.7,,agt-009
+TKT-00245,2024-03-01,email,returns,i have a neutral experience regarding returns. this is a escalation request.,12,resolved,56.0,1.0,agt-023
+TKT-01100,2024-06-16,social_media,technical support,i have a negative experience regarding technical support. this is a cancellation.,12,resolved,27.2,1.0,agt-007
+TKT-00501,2024-01-10,phone_transcript,billing,you overcharged me by 49.99. i need this fixed now or i'm canceling.,13,pending,15.4,,agt-005
+TKT-00701,2024-09-15,chat,returns,i have a negative experience regarding returns. this is a escalation request.,12,escalated,46.0,4.0,agt-047
+TKT-00129,2024-12-28,social_media,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,67.6,2.0,agt-009
+TKT-00240,2024-09-07,chat,account,i have a neutral experience regarding account. this is a complaint.,11,pending,21.2,,agt-040
+TKT-01115,2024-07-08,social_media,shipping,you shipped to the wrong address even though i updated it before the order was processed.,16,pending,2.1,,agt-036
+TKT-00683,2024-07-31,chat,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,resolved,55.5,1.0,agt-019
+TKT-00483,2024-05-05,email,billing,i have a neutral experience regarding billing. this is a escalation request.,12,escalated,37.6,2.0,agt-034
+TKT-01306,2024-12-16,chat,account,i have a positive experience regarding account. this is a complaint.,11,escalated,51.2,3.0,agt-024
+TKT-00276,2024-03-10,email,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,unresolved,56.3,3.0,agt-030
+TKT-00583,2024-02-27,social_media,account,i have a negative experience regarding account. this is a feedback.,11,resolved,52.8,5.0,agt-020
+TKT-00204,2024-12-26,chat,billing,i have a negative experience regarding billing. this is a feedback.,11,pending,15.1,,agt-050
+TKT-00033,2024-08-23,social_media,billing,i have a neutral experience regarding billing. this is a complaint.,11,resolved,25.5,4.0,agt-043
+TKT-01320,2024-02-24,phone_transcript,shipping,i have a neutral experience regarding shipping. this is a inquiry.,11,pending,30.4,,agt-045
+TKT-00814,2024-03-15,social_media,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,resolved,15.5,4.0,agt-024
+TKT-00998,2024-03-13,chat,account,i have a neutral experience regarding account. this is a feedback.,11,resolved,3.1,1.0,agt-008
+TKT-00382,2024-01-10,email,account,your support team was incredibly helpful setting up my account. thank you!,12,escalated,61.2,4.0,agt-003
+TKT-01074,2024-01-06,email,billing,i have a positive experience regarding billing. this is a inquiry.,11,escalated,16.1,3.0,agt-016
+TKT-01349,2024-07-14,chat,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,escalated,26.6,4.0,agt-006
+TKT-00579,2024-05-25,email,shipping,i have a negative experience regarding shipping. this is a feedback.,11,resolved,33.1,1.0,agt-019
+TKT-00888,2024-06-20,email,returns,i have a positive experience regarding returns. this is a complaint.,11,resolved,2.5,3.0,agt-039
+TKT-01326,2024-05-06,email,technical support,i have a negative experience regarding technical support. this is a complaint.,12,pending,45.3,,agt-015
+TKT-01327,2024-07-21,email,shipping,i have a neutral experience regarding shipping. this is a feedback.,11,escalated,2.5,3.0,agt-039
+TKT-00942,2024-01-07,social_media,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,48.4,2.0,agt-022
+TKT-00164,2024-10-22,chat,returns,i have a neutral experience regarding returns. this is a escalation request.,12,escalated,52.1,1.0,agt-030
+TKT-00910,2024-03-31,phone_transcript,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,resolved,33.3,2.0,agt-028
+TKT-00298,2024-11-10,email,billing,i have a negative experience regarding billing. this is a escalation request.,12,resolved,64.4,3.0,agt-039
+TKT-00756,2024-04-29,social_media,technical support,i have a positive experience regarding technical support. this is a cancellation.,12,resolved,21.3,4.0,agt-001
+TKT-00406,2024-07-26,phone_transcript,billing,i have a negative experience regarding billing. this is a feedback.,11,pending,42.4,,agt-005
+TKT-00969,2024-09-21,email,account,i have a negative experience regarding account. this is a feedback.,11,escalated,10.8,3.0,agt-044
+TKT-00606,2024-07-16,phone_transcript,shipping,you shipped to the wrong address even though i updated it before the order was processed.,16,resolved,20.8,3.0,agt-015
+TKT-00421,2024-05-13,social_media,shipping,i have a neutral experience regarding shipping. this is a inquiry.,11,escalated,26.3,3.0,agt-002
+TKT-00465,2024-06-28,phone_transcript,shipping,my package was supposed to arrive 5 days ago. the tracking hasn't updated in a week.,16,resolved,44.6,5.0,agt-015
+TKT-01188,2024-12-07,social_media,returns,i have a negative experience regarding returns. this is a escalation request.,12,pending,27.9,,agt-042
+TKT-00940,2024-07-30,chat,returns,i have a positive experience regarding returns. this is a complaint.,11,escalated,46.0,4.0,agt-031
+TKT-00193,2024-11-26,chat,billing,i have a neutral experience regarding billing. this is a complaint.,11,escalated,69.4,2.0,agt-025
+TKT-00675,2024-08-11,phone_transcript,billing,i have a neutral experience regarding billing. this is a cancellation.,11,resolved,2.0,1.0,agt-015
+TKT-00352,2024-07-31,phone_transcript,technical support,i have a neutral experience regarding technical support. this is a feedback.,12,resolved,3.8,3.0,agt-029
+TKT-00859,2024-07-18,social_media,billing,i have a positive experience regarding billing. this is a feedback.,11,pending,29.2,,agt-011
+TKT-00064,2024-06-23,social_media,billing,i have a negative experience regarding billing. this is a inquiry.,11,resolved,13.7,1.0,agt-005
+TKT-01174,2024-08-22,chat,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,resolved,59.9,1.0,agt-023
+TKT-00766,2024-01-10,chat,technical support,i have a neutral experience regarding technical support. this is a complaint.,12,resolved,43.9,1.0,agt-011
+TKT-01441,2024-11-20,email,billing,i have a negative experience regarding billing. this is a inquiry.,11,resolved,39.6,3.0,agt-018
+TKT-00262,2024-01-31,phone_transcript,billing,i have a positive experience regarding billing. this is a complaint.,11,resolved,68.3,3.0,agt-050
+TKT-00343,2024-09-06,chat,shipping,i have a neutral experience regarding shipping. this is a escalation request.,12,resolved,8.6,2.0,agt-021
+TKT-01221,2024-02-20,email,technical support,i have a negative experience regarding technical support. this is a feedback.,12,unresolved,33.2,1.0,agt-046
+TKT-00472,2024-06-30,phone_transcript,returns,i have a neutral experience regarding returns. this is a complaint.,11,pending,45.2,,agt-033
+TKT-01335,2024-04-15,phone_transcript,account,the onboarding process was smooth and intuitive. very impressed.,9,pending,43.3,,agt-024
+TKT-00199,2024-10-29,email,account,i have a neutral experience regarding account. this is a complaint.,11,pending,63.4,,agt-028
+TKT-01232,2024-12-16,phone_transcript,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,5.2,4.0,agt-047
+TKT-00918,2024-03-22,phone_transcript,billing,i have a negative experience regarding billing. this is a feedback.,11,escalated,68.3,1.0,agt-041
+TKT-00744,2024-04-13,email,returns,i have a negative experience regarding returns. this is a feedback.,11,resolved,32.8,1.0,agt-025
+TKT-00571,2024-12-11,email,billing,why was my credit card charged again? i already paid for this billing cycle.,14,pending,26.5,,agt-040
+TKT-00219,2024-02-12,chat,billing,why was my credit card charged again? i already paid for this billing cycle.,14,escalated,19.7,2.0,agt-021
+TKT-00454,2024-07-30,phone_transcript,returns,i have a negative experience regarding returns. this is a cancellation.,11,escalated,55.1,2.0,agt-037
+TKT-00031,2024-07-27,phone_transcript,technical support,i have a negative experience regarding technical support. this is a feedback.,12,escalated,70.1,3.0,agt-011
+TKT-00057,2024-05-05,phone_transcript,returns,i have a neutral experience regarding returns. this is a escalation request.,12,resolved,59.9,1.0,agt-030
+TKT-01211,2024-07-15,email,shipping,i have a positive experience regarding shipping. this is a complaint.,11,resolved,22.4,5.0,agt-005
+TKT-01386,2024-03-25,chat,shipping,i have a negative experience regarding shipping. this is a feedback.,11,resolved,68.7,2.0,agt-010
+TKT-01066,2024-07-03,email,returns,i have a neutral experience regarding returns. this is a cancellation.,11,resolved,38.1,1.0,agt-024
+TKT-00431,2024-09-08,email,technical support,can i integrate your service with zapier?,7,pending,68.2,,agt-019
+TKT-00725,2024-02-19,email,technical support,i have a positive experience regarding technical support. this is a inquiry.,12,pending,2.5,,agt-041
+TKT-01145,2024-07-08,phone_transcript,account,i have a neutral experience regarding account. this is a complaint.,11,resolved,31.8,1.0,agt-005
+TKT-01006,2024-02-10,social_media,returns,i have a negative experience regarding returns. this is a inquiry.,11,resolved,20.3,3.0,agt-012
+TKT-01051,2024-06-09,social_media,shipping,i have a negative experience regarding shipping. this is a feedback.,11,pending,69.1,,agt-031
+TKT-01346,2024-07-25,social_media,technical support,i have a neutral experience regarding technical support. this is a feedback.,12,resolved,15.3,2.0,agt-019
+TKT-01237,2024-08-23,phone_transcript,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,resolved,29.8,4.0,agt-009
+TKT-01236,2024-11-22,chat,technical support,i have a neutral experience regarding technical support. this is a escalation request.,13,resolved,52.8,5.0,agt-011
+TKT-01449,2024-01-09,social_media,returns,what's the return process for international orders?,7,pending,55.7,,agt-012
+TKT-00621,2024-11-21,social_media,shipping,i have a positive experience regarding shipping. this is a complaint.,11,resolved,61.1,5.0,agt-019
+TKT-01068,2024-11-19,social_media,billing,i have a negative experience regarding billing. this is a escalation request.,12,unresolved,33.0,1.0,agt-035
+TKT-00839,2024-07-10,social_media,account,i have a neutral experience regarding account. this is a complaint.,11,resolved,69.8,2.0,agt-050
+TKT-00100,2024-04-18,social_media,returns,i have a neutral experience regarding returns. this is a cancellation.,11,resolved,46.4,3.0,agt-016
+TKT-00533,2024-06-25,chat,returns,can i exchange instead of return?,6,resolved,4.4,1.0,agt-026
+TKT-00529,2024-10-15,phone_transcript,shipping,the delivery was right on time and the item was exactly as described.,13,escalated,19.1,4.0,agt-048
+TKT-01347,2024-10-15,email,technical support,i have a neutral experience regarding technical support. this is a escalation request.,13,pending,18.0,,agt-002
+TKT-01173,2024-08-21,social_media,technical support,i have a neutral experience regarding technical support. this is a escalation request.,13,escalated,47.9,3.0,agt-005
+TKT-01179,2024-06-02,chat,returns,i have a negative experience regarding returns. this is a inquiry.,11,escalated,0.5,1.0,agt-047
+TKT-00630,2024-02-02,phone_transcript,billing,i have a positive experience regarding billing. this is a escalation request.,12,pending,64.9,,agt-043
+TKT-01028,2024-09-23,social_media,shipping,i have a neutral experience regarding shipping. this is a cancellation.,11,escalated,9.5,2.0,agt-008
+TKT-00271,2024-05-29,email,shipping,i have a neutral experience regarding shipping. this is a inquiry.,11,resolved,40.8,2.0,agt-038
+TKT-01342,2024-11-10,chat,technical support,i have a negative experience regarding technical support. this is a complaint.,12,resolved,70.5,1.0,agt-027
+TKT-00627,2024-07-30,email,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,pending,19.6,,agt-044
+TKT-01043,2024-01-13,chat,account,i have a neutral experience regarding account. this is a inquiry.,11,resolved,16.9,4.0,agt-008
+TKT-00977,2024-12-03,chat,account,i have a neutral experience regarding account. this is a feedback.,11,resolved,22.2,2.0,agt-025
+TKT-00372,2024-11-18,social_media,account,i want to cancel my account. your service has been nothing but problems.,13,resolved,29.4,2.0,agt-042
+TKT-00589,2024-10-11,phone_transcript,returns,i have a positive experience regarding returns. this is a inquiry.,11,resolved,33.5,4.0,agt-025
+TKT-00968,2024-02-19,email,billing,i have a positive experience regarding billing. this is a escalation request.,12,resolved,59.3,4.0,agt-008
+TKT-01166,2024-02-03,chat,technical support,i have a positive experience regarding technical support. this is a complaint.,12,resolved,8.5,4.0,agt-035
+TKT-01147,2024-03-12,phone_transcript,account,i have a negative experience regarding account. this is a complaint.,11,pending,55.7,,agt-046
+TKT-00237,2024-04-10,chat,billing,i have a negative experience regarding billing. this is a feedback.,11,resolved,33.2,1.0,agt-041
+TKT-00597,2024-03-20,chat,returns,i have a neutral experience regarding returns. this is a cancellation.,11,resolved,36.5,4.0,agt-045
+TKT-00963,2024-11-01,phone_transcript,returns,i returned the item 10 days ago and the refund still hasn't hit my account.,15,unresolved,22.7,3.0,agt-044
+TKT-01446,2024-01-23,social_media,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,resolved,43.3,1.0,agt-023
+TKT-01164,2024-04-14,chat,technical support,i have a neutral experience regarding technical support. this is a cancellation.,12,resolved,22.4,3.0,agt-021
+TKT-00591,2024-12-06,social_media,shipping,i have a negative experience regarding shipping. this is a escalation request.,12,resolved,64.3,2.0,agt-016
+TKT-00209,2024-07-30,email,account,i have a positive experience regarding account. this is a escalation request.,12,escalated,10.3,4.0,agt-014
+TKT-01075,2024-03-08,chat,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,escalated,22.7,2.0,agt-037
+TKT-00900,2024-04-02,social_media,shipping,i have a neutral experience regarding shipping. this is a inquiry.,11,resolved,52.8,5.0,agt-013
+TKT-00354,2024-03-06,chat,account,cancel everything. i've had nothing but issues and the support is terrible.,12,escalated,7.9,3.0,agt-027
+TKT-00059,2024-07-27,chat,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,resolved,35.4,4.0,agt-032
+TKT-00304,2024-04-30,social_media,account,i have a neutral experience regarding account. this is a inquiry.,11,pending,34.6,,agt-046
+TKT-01448,2024-03-28,email,technical support,can i integrate your service with zapier?,7,resolved,56.6,2.0,agt-004
+TKT-00844,2024-12-29,social_media,returns,do i need the original packaging to return an item?,10,resolved,14.7,2.0,agt-003
+TKT-01262,2024-09-16,phone_transcript,technical support,i have a positive experience regarding technical support. this is a inquiry.,12,pending,46.3,,agt-023
+TKT-01431,2024-10-19,email,returns,it's been 3 weeks and i still haven't received my refund. this is ridiculous.,14,unresolved,2.0,1.0,agt-047
+TKT-01210,2024-02-18,email,returns,what is your return policy for items bought during a sale?,11,resolved,38.0,1.0,agt-044
+TKT-00368,2024-02-28,phone_transcript,account,i have a neutral experience regarding account. this is a complaint.,11,resolved,28.1,2.0,agt-050
+TKT-01358,2024-07-30,phone_transcript,technical support,i have a neutral experience regarding technical support. this is a cancellation.,12,resolved,27.9,3.0,agt-049
+TKT-01198,2024-01-21,chat,account,i have a negative experience regarding account. this is a inquiry.,11,resolved,18.1,1.0,agt-015
+TKT-01305,2024-07-21,chat,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,escalated,6.3,2.0,agt-003
+TKT-01233,2024-01-04,email,shipping,i have a neutral experience regarding shipping. this is a complaint.,11,pending,27.8,,agt-050
+TKT-00705,2024-09-30,social_media,technical support,i have a neutral experience regarding technical support. this is a feedback.,12,resolved,43.9,2.0,agt-002
+TKT-00234,2024-06-24,email,billing,i have a neutral experience regarding billing. this is a escalation request.,12,resolved,46.8,3.0,agt-016
+TKT-00619,2024-08-04,email,shipping,i have a positive experience regarding shipping. this is a inquiry.,11,resolved,41.1,5.0,agt-038
+TKT-00197,2024-01-23,email,billing,i have a positive experience regarding billing. this is a complaint.,11,resolved,29.3,2.0,agt-004
+TKT-01260,2024-12-12,chat,technical support,i have a negative experience regarding technical support. this is a inquiry.,12,resolved,42.8,4.0,agt-006
+TKT-00082,2024-08-13,phone_transcript,technical support,i have a neutral experience regarding technical support. this is a complaint.,12,escalated,7.6,5.0,agt-042
+TKT-01405,2024-07-29,chat,technical support,your team keeps closing my ticket without resolving the issue. escalate this now.,13,resolved,70.7,5.0,agt-027
+TKT-00598,2024-02-09,email,account,i have a neutral experience regarding account. this is a feedback.,11,resolved,8.8,1.0,agt-045
+TKT-01157,2024-04-21,phone_transcript,technical support,how do i reset my api key without disrupting existing integrations?,11,resolved,55.7,1.0,agt-025
+TKT-00112,2024-05-19,phone_transcript,account,i have a negative experience regarding account. this is a inquiry.,11,resolved,50.7,2.0,agt-010
+TKT-01277,2024-06-12,chat,shipping,i have a negative experience regarding shipping. this is a inquiry.,11,escalated,35.2,2.0,agt-042
+TKT-00781,2024-04-13,social_media,technical support,i have a negative experience regarding technical support. this is a complaint.,12,unresolved,19.9,4.0,agt-026
+TKT-00984,2024-07-01,social_media,account,i have a neutral experience regarding account. this is a escalation request.,12,pending,44.7,,agt-005
+TKT-00800,2024-08-31,email,account,i have a neutral experience regarding account. this is a feedback.,11,resolved,71.1,4.0,agt-019
+TKT-01266,2024-03-28,chat,returns,i have a neutral experience regarding returns. this is a cancellation.,11,resolved,3.6,2.0,agt-026
+TKT-01151,2024-10-16,email,returns,i have a neutral experience regarding returns. this is a complaint.,11,escalated,7.1,3.0,agt-033
+TKT-00825,2024-04-20,phone_transcript,billing,i have a neutral experience regarding billing. this is a complaint.,11,escalated,69.0,3.0,agt-009

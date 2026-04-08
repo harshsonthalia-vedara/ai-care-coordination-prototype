@@ -1,0 +1,104 @@
+{
+  "dataset_note": "Provided train/test split contains complete overlap of unique test texts with train texts. Reported metrics below come from grouped validation on train data, not from the provided test set.",
+  "overlap_summary": {
+    "train_unique_texts": 109,
+    "test_unique_texts": 90,
+    "overlapping_unique_texts": 90
+  },
+  "sentiment": {
+    "accuracy": 0.9183673469387755,
+    "macro_f1": 0.9084777084777085,
+    "weighted_f1": 0.9158272872558587,
+    "classification_report": {
+      "negative": {
+        "precision": 0.875,
+        "recall": 1.0,
+        "f1-score": 0.9333333333333333,
+        "support": 112.0
+      },
+      "neutral": {
+        "precision": 1.0,
+        "recall": 0.7333333333333333,
+        "f1-score": 0.8461538461538461,
+        "support": 45.0
+      },
+      "positive": {
+        "precision": 1.0,
+        "recall": 0.8974358974358975,
+        "f1-score": 0.9459459459459459,
+        "support": 39.0
+      },
+      "accuracy": 0.9183673469387755,
+      "macro avg": {
+        "precision": 0.9583333333333334,
+        "recall": 0.8769230769230769,
+        "f1-score": 0.9084777084777085,
+        "support": 196.0
+      },
+      "weighted avg": {
+        "precision": 0.9285714285714286,
+        "recall": 0.9183673469387755,
+        "f1-score": 0.9158272872558587,
+        "support": 196.0
+      }
+    }
+  },
+  "intent": {
+    "accuracy": 0.8578680203045685,
+    "macro_f1": 0.8747588965248134,
+    "weighted_f1": 0.8652572999542397,
+    "classification_report": {
+      "cancellation": {
+        "precision": 1.0,
+        "recall": 0.9705882352941176,
+        "f1-score": 0.9850746268656716,
+        "support": 34.0
+      },
+      "complaint": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1-score": 0.75,
+        "support": 42.0
+      },
+      "escalation_request": {
+        "precision": 1.0,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.9655172413793104,
+        "support": 15.0
+      },
+      "feedback": {
+        "precision": 1.0,
+        "recall": 0.6451612903225806,
+        "f1-score": 0.7843137254901961,
+        "support": 31.0
+      },
+      "inquiry": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 75.0
+      },
+      "accuracy": 0.8578680203045685,
+      "macro avg": {
+        "precision": 0.9199999999999999,
+        "recall": 0.8698165717900064,
+        "f1-score": 0.8747588965248134,
+        "support": 197.0
+      },
+      "weighted avg": {
+        "precision": 0.914720812182741,
+        "recall": 0.8578680203045685,
+        "f1-score": 0.8652572999542397,
+        "support": 197.0
+      }
+    }
+  },
+  "train_rows_total": 1200,
+  "test_rows_total": 300,
+  "sentiment_train_rows_used": 1147,
+  "intent_train_rows_used": 1164,
+  "sentiment_grouped_train_rows": 951,
+  "sentiment_grouped_val_rows": 196,
+  "intent_grouped_train_rows": 967,
+  "intent_grouped_val_rows": 197
+}
